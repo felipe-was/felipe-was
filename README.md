@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Was-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Location-Montevideo,%20Uruguay-lightgrey?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/EU%20Citizen-German%20passport-informational?style=flat-square" alt="EU Citizen">
 </p>
 
 ---
@@ -27,7 +26,6 @@ I studied entirely in French through the AEFE network, which makes me trilingual
 - 🎓 Studying Systems Engineering at Universidad ORT Uruguay (2nd year)
 - 🤖 Building web apps by orchestrating AI agents + integrating APIs
 - 🌍 Trilingual: Spanish (native) · French (bilingual) · English (Cambridge FCE)
-- 🇪🇺 EU citizen (German passport)
 
 ---
 
